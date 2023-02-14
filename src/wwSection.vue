@@ -113,7 +113,7 @@ export default {
   position: fixed;
   top: 0;
   height: 100vh;
-  z-index: 30;
+  z-index: 100;
   transition: background-color 0.5s;
   background-color: var(--backdropColor);
   pointer-events: var(--backdropEvents);
